@@ -16,4 +16,4 @@ DOMAIN,msmp.abchina.com.cn,REJECT
 
 [MitM]
 # 不可MitM也不应该被打断连接的域名
-hostname = -gateway.icloud.com, -gateway.icloud.com.cn, -weather-data.apple.com, -buy.itunes.apple.com, -ios.chat.openai.com, -testflight.apple.com
+hostname = -testflight.apple.com
