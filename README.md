@@ -4,32 +4,6 @@
 
 # 不要问我 啥都不会
 
-### 说明 :
-
-* 只是搬运和同步更新大佬脚本.
-
-* 不负责维护脚本.
-
-* 只测试自用脚本，其他大部分脚本未测试可用性.
-
-
-### Loon脚本订阅配置 ：
-* [文字教程](https://github.com/TiyNa/LoonManual)
-
-* [Script.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf) 脚本订阅
-
-* [Cookie.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Cookie.conf)获取Cookie订阅
-
-* [Task.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Task.conf) 定时任务订阅
-
-### Loon插件订阅配置 ：
-
-* [Advertising.plugin](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin) 去广告插件
-
-* [Host.plugin](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Host.plugin) Host
-
-* [General.plugin](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/General.plugin) General
-
 ## 免责声明 ：
 
 * Tartarus2014发布的Loon-Script项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
@@ -44,43 +18,53 @@
 
 * 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
 
-* 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。Tartarus2014 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Loon-Script项目的规则，则视为您已接受此免责声明.
+* Tartarus2014 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或For-own-use项目的规则，则视为您已接受此免责声明.
+
+## Loon后缀说明 ：
+
+* .lsr意为Loon Shunt Rules的缩写，即Loon分流规则。
+
+* .lpx意为Loon Plugin Extension的缩写，即Loon插件扩展。
+
+* .ltx意为Loon Task Extension的缩写，即Loon任务扩展。
+
+* .lcf意为Loon Configuration File的缩写，即Loon配置文件。
+
+* .jq是复写使用的JQLang命令文件，多行带注释的JQ命令写入文件后使用此文件扩展名。
+
+
+## 官方文档地址：https://nsloon.app/docs/intro
+
+- [General](https://nsloon.app/docs/category/其他配置)
+
+- [节点格式](https://nsloon.app/docs/Node/)
+
+- [规则格式](https://nsloon.app/docs/category/规则)
+
+- [复写格式](https://nsloon.app/docs/category/复写)
+
+- [脚本格式](https://nsloon.app/docs/Script/)
+
+- [脚本API](https://nsloon.app/docs/Script/script_api)
+
+- [DNS格式](https://nsloon.app/docs/category/dns)
+
+- [插件格式](https://nsloon.app/docs/category/插件)
+
+- [scheme格式](https://nsloon.app/docs/category/scheme)
+
 
 ### 特别感谢 ：
 * [@NobyDa](https://github.com/NobyDa)
 
-* [@lhie1](https://github.com/lhie1)
+* [@lhie1](https://github.com/dler-io/Rules)
 
-* [@ConnersHua](https://github.com/DivineEngine)
+* [@ConnersHua](https://github.com/ConnersHua/RuleGo/tree/master)
 
 * [@chavyleung](https://github.com/chavyleung)
 
 * [@yichahucha](https://github.com/yichahucha)
 
-* [@langkhach270389](https://github.com/langkhach270389)
-
-* [@Choler](https://github.com/Choler)
-
-* [@onewayticket255](https://github.com/onewayticket255)
-
-* [@NavePnow](https://github.com/NavePnow)
-
-* [@Meeta](https://github.com/MeetaGit)
-
 * [@Neurogram-R](https://github.com/Neurogram-R)
-
-* [@sazs34](https://github.com/sazs34)
-
-* [@id77](https://github.com/id77)
-
-* [@lxk0301](https://github.com/lxk0301)
-
-* [@红鲤鱼与绿鲤鱼与驴](https://github.com/wangdelu2020)
-
-* [@iisams](https://github.com/iisams/Scripts)
-
-* [@barrym-chen](https://github.com/barrym-chen/Script)
-
-* [@ziye12](https://github.com/ziye12/JavaScript)
 
 * [@公众号墨鱼手记](https://github.com/ddgksf2013)
